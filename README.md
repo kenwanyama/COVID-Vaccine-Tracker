@@ -1,3 +1,5 @@
+ Tableau Public work book: https://public.tableau.com/app/profile/ken3723/viz/COVID_19GlobalVaccineTracker/Dashboard
+ 
  ********Introduction********
     
  Welcome to my project on visualizing global vaccination progress! This project focuses on tracking the vaccination efforts of countries around the world. It aims to provide an overview of key vaccine-related metrics, such as the total number of doses administered, the percentage of the population vaccinated, and the daily vaccination rate.
@@ -30,6 +32,8 @@
   One potential limitation of this project is that the data used to create the visualization is slightly outdated, as it is not possible to obtain real-time vaccination data for all countries. Additionally, the data is static, meaning that it does not update automatically. This means that the dashboard may not reflect the latest vaccination progress of countries, especially if there are significant changes in the vaccination rates or policies. Users should keep this in mind when interpreting the data and refer to other sources to obtain the most up-to-date information on global vaccination progress. However, despite these limitations, the visualization provides a useful overview of the global vaccination landscape and allows users to explore the progress made towards achieving a fully vaccinated world.
     
 ![image](https://user-images.githubusercontent.com/59413434/218279231-1d304725-886c-4e4b-8b6c-b46ff08d1d0c.png)
+
+
 
  
  - **Conclusions and future research ideas**
