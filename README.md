@@ -36,7 +36,7 @@
 
 
  
- - **Conclusions and future research ideas**
+ **Conclusions and future research ideas**
 
 It is evident from the analysis that there is a positive correlation between a country's GDP and its vaccination progress. The higher the GDP, the higher the number of people vaccinated, on average. This trend is likely due to several factors, such as greater financial resources, better healthcare infrastructure, and greater access to vaccines. However, it is important to note that this correlation is not absolute and that there are several exceptions to this trend, with some countries with lower GDPs achieving high vaccination rates. Overall, the analysis highlights the importance of addressing economic inequalities and ensuring that all countries have access to vaccines and the resources needed to achieve high vaccination rates.
 
